@@ -1,6 +1,10 @@
-# Blocks
+# Screenless Blocks
 
-> Educational toy for small babies, which help learn counting and arithmetics.
+> Screenless educational toy for toddlers, which help learn counting and arithmetics.
+
+## Concept
+
+![Screenless blocks concept](/concept.png)
 
 ## Author
 
